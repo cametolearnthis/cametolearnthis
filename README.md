@@ -5,18 +5,18 @@
 ```js
 const jorgeWD = {
 
-    hardSkills: {
-    code: [Javascript, HTML, CSS],
+  hardSkills: {
+    code: [Javascript, Python, HTML, CSS],
     tools: [React, Node],
     frameworks: [Express, Bootstrap],
     DB: MongoDB,
-    other: postmanAPI
+    other: [postmanAPI]
   },
   
   softSkills: [team-working, fast-learning, perseverance, curiosity],
 
   learning: {
-    learningCode: [Typescript, Python]
+    learningCode: [Typescript, Python],
     learningFrameworks: [Django, FastAPI]
   }, 
 
@@ -28,6 +28,8 @@ const jorgeWD = {
 
 ```
 
+You can find me 🌍:
+- [Linkedin](https://www.linkedin.com/in/jorge-sanchez-fullstack/)
 
 <!--
 **cametolearnthis/cametolearnthis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
