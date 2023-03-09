@@ -6,7 +6,7 @@
 const jorgeWD = {
 
   hardSkills: {
-    code: [Javascript, Python, HTML, CSS],
+    code: [Javascript, HTML, CSS],
     tools: [React, Node],
     frameworks: [Express, Bootstrap],
     DB: MongoDB,
