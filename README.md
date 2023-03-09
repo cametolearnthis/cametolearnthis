@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Jorge 👋
+
+```js
+const jorgeWD = {
+  code: [Javascript, Python, HTML, CSS],
+  tools: [React, Node],
+  frameworks: [Express, Bootstrap],
+  DB: MongoDB,
+  other: [postmanAPI],
+  
+  learning: {
+    learningCode: [Typescript, Python],
+    learningFrameworks: [Django, FastAPI]
+  } 
+}
+
+```
 
 <!--
 **cametolearnthis/cametolearnthis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
